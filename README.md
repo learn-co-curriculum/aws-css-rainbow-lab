@@ -12,15 +12,17 @@ In this lab, we're going to make a rainbow with HTML `<div>` elements. And while
 we do it we're going to learn about HTML elements, CSS styling, CSS selectors,
 how color works in CSS and importing style sheets.
 
-Before we start, here's some basic info about HTML and CSS. Skip to
-[Make a CSS Rainbow](#make-a-rainbow) if you feel comfortable enough with HTML
+Before we start, we'll review some basic info about HTML and CSS. Skip to the 
+[Make a CSS Rainbow](#make-a-rainbow) section if you feel comfortable enough with HTML
 and CSS.
 
 ## Getting Started
 
 Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Run `learn test` as you work to see your test progress.
+Code.
+
+Install all the dependencies with `npm install` to ensure you can test your work as you go with `npm test`.
 
 ## Review HTML Basics
 
@@ -192,11 +194,6 @@ mark its color as red.
 To make sure the rainbow isn't so monochromatic you now need to repeat the above
 steps with the final six colors, and when you do you should have a complete,
 colorful rainbow.
-
-## Moving On
-
-When you're done with this lab type `learn test` to confirm you've passed all the
-tests.
 
 ## Conclusion
 
